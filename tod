@@ -1,56 +1,39 @@
-[
+{
+  "SSC": [
     {
-        "name": "jeem",
-        "url": "https://live-d-01-todtv-da.akamaized.net/Content/DASH_DASH/Live/channel(ent-hd-31)/manifest.mpd?hdnts=st=1722987119~exp=1723001519~acl=/Content/*~id=fa74f5a4-a3cf-453f-b9ce-aaaa0294385b~data=c12acc3e-536e-44f1-bd19-1efe71f5f3fe~hmac=74cd0de6541b4d5a24483ccc49ae8bb210381427f029b4c1d411f7042b854c6d&hdcore=2.11.3",
-        "key": "0a7934dddc3136a6922584b96c3fd1e5:676e6d1dd00bfbe266003efaf0e3aa02",
-        "mediaUrl": "rjeem"
+      "name": "SSC1",
+      "url": "https://live-d-01-todtv-da.akamaized.net/Content/DASH_DASH/Live/channel(ent-hd-31)/hdntl=exp=1723016566~acl=%2fContent%2f*~id=fa74f5a4-a3cf-453f-b9ce-aaaa0294385b~data=hdntl,53b67cbf-b808-4e1b-9b0f-e132892db0e1~hmac=1c443d666a6f6229866077f94c3ac16216d26d3990a1712013af144674e1c48e/manifest.mpd",
+      "key": "0a7934dddc3136a6922584b96c3fd1e5:676e6d1dd00bfbe266003efaf0e3aa02"
     },
     {
-        "name": "Rotana Cinema Masr",
-        "url": "https://live.kwikmotion.com/rcinemaeglive/rcinemaeg.smil/playlist.m3u8?hdnts=",
-        "key": "2bc249e03ad4301994073f4457c985ab",
-        "mediaUrl": "rcinemaeg"
+      "name": "SSC2",
+      "url": "https://ssc2-ak.akamaized.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd",
+      "key": "8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596"
     },
     {
-        "name": "Rotana Comedy",
-        "url": "https://live.kwikmotion.com/rcomedylive/rcomedy.smil/playlist.m3u8?hdnts=",
-        "key": "c4da4eb4f612750f0779b281bc8d67d4",
-        "mediaUrl": "rcomedy"
+      "name": "SSC3",
+      "url": "https://ssc3-ak.akamaized.net/out/v1/42e86125555242aaa2a12056832e7814/index.mpd",
+      "key": "7de5dd08ad8041d586c2f16ccc9490a1:5e1503f3398b34f5099933fedab847ef"
     },
     {
-        "name": "Rotana Classical",
-        "url": "https://live.kwikmotion.com/rclassiclive/rclassic.smil/playlist.m3u8?hdnts=",
-        "key": "2d1d493b5e4cd1c8bfe12416774a0c8d",
-        "mediaUrl": "rclassic"
+      "name": "SSC4",
+      "url": "https://ssc4-ak.akamaized.net/out/v1/5267ea5772874b0db24559d643eaad93/index.mpd",
+      "key": "c88b512b17ab4f6cb09eb0ff4a1056ed:adc08ee1c20a734972a55c9aebbd1888"
     },
     {
-        "name": "Rotana Drama",
-        "url": "https://live.kwikmotion.com/rdramalive/rdrama.smil/playlist.m3u8?hdnts=",
-        "key": "21813f3166d2c2e20c0b243639cde4dc",
-        "mediaUrl": "rdrama"
+      "name": "SSC EXTRA1",
+      "url": "https://ssc-extra1-ak.akamaized.net/out/v1/647c58693f1d46af92bd7e69f17912cb/index.mpd",
+      "key": "ecbc9e6fe6b145efb6658fb5cf7427f8:03c17e28911f71221acbc0b11f900401"
     },
     {
-        "name": "Rotana Khaleejiya",
-        "url": "https://live.kwikmotion.com/rkhalijeahlive/rkhalijeah.smil/playlist.m3u8?hdnts=",
-        "key": "5c6f48285bb30cc477408af69876cd6b",
-        "mediaUrl": "rkhalijeah"
+      "name": "SSC EXTRA2",
+      "url": "https://ssc-extra2-ak.akamaized.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/index.mpd",
+      "key": "4d89249bd4ca4ebc9e70443265f9507d:cf074ffd2646c9c2f8513b47fa57bc30"
     },
     {
-        "name": "Rotana LBC",
-        "url": "https://live.kwikmotion.com/rlbclive/rlbc.smil/playlist.m3u8?hdnts=",
-        "key": "11a84280d657dad046d1a37756fdcfef",
-        "mediaUrl": "rlbc"
-    },
-    {
-        "name": "Rotana Clip",
-        "url": "https://live.kwikmotion.com/rcliplive/rclip.smil/playlist.m3u8?hdnts=",
-        "key": "31073e6759bc9bb6ec299ff1fcec93c8",
-        "mediaUrl": "rclip"
-    },
-    {
-        "name": "Rotana Risala",
-        "url": "https://live.kwikmotion.com/alressalahlive/alressalah.smil/playlist.m3u8?hdnts=",
-        "key": "e72e95dd21a18d89b696a7737efaebdb",
-        "mediaUrl": "alressalah"
+      "name": "SSC EXTRA3",
+      "url": "https://ssc-extra3-ak.akamaized.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/index.mpd",
+      "key": "98cfd6fd4812497fb24dc75f7545f2ee:d3006ee69e77b25939728ebf30d3180a"
     }
-]
+  ]
+}
