@@ -1,39 +1,29 @@
 {
-  "SSC": [
+  "STARZPLAY": [
     {
-      "name": "SSC1",
-      "url": "https://live-d-01-todtv-da.akamaized.net/Content/DASH_DASH/Live/channel(ent-hd-31)/hdntl=exp=1723016566~acl=%2fContent%2f*~id=fa74f5a4-a3cf-453f-b9ce-aaaa0294385b~data=hdntl,53b67cbf-b808-4e1b-9b0f-e132892db0e1~hmac=1c443d666a6f6229866077f94c3ac16216d26d3990a1712013af144674e1c48e/index.mpd",
+      "name": "ABU DHABI SPORT 1",
+      "url": "https://live-d-01-todtv-da.akamaized.net/Content/DASH_DASH/Live/channel(ent-hd-31)/manifest.mpd?hdnts=st=1722987756~exp=1723002156~acl=/Content/*~id=fa74f5a4-a3cf-453f-b9ce-aaaa0294385b~data=53b67cbf-b808-4e1b-9b0f-e132892db0e1~hmac=ac4349da5698cb7c569c15877f452bb81cc0f5bd64226c54ff6cc9167a791d74&hdcore=2.11.3",
       "key": "0a7934dddc3136a6922584b96c3fd1e5:676e6d1dd00bfbe266003efaf0e3aa02"
     },
     {
-      "name": "SSC2",
-      "url": "https://ssc2-ak.akamaized.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd",
-      "key": "8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596"
+      "name": "ABU DHABI SPORT 2",
+      "url": "https://adsp2.starzplayarabia.com/out/v1/6a5b2f1fea49459599ac1e58568c7e4a/index.mpd",
+      "key": "1ae76d26b3d348e3eb071c3342e940f8:cc9f0c73ad0dde1aa0953b17c0ba6b6f"
     },
     {
-      "name": "SSC3",
-      "url": "https://ssc3-ak.akamaized.net/out/v1/42e86125555242aaa2a12056832e7814/index.mpd",
-      "key": "7de5dd08ad8041d586c2f16ccc9490a1:5e1503f3398b34f5099933fedab847ef"
+      "name": "ABU DHABI SPORT PREMIUM 1",
+      "url": "https://sps1.starzplayarabia.com/out/v1/41ff8fde1cd84ed5b30ab8198755356b/index.mpd",
+      "key": "b253c726c24c7c94a3ddf9b1907e2c76:097963d6ad73c3d712a104981de0ed42"
     },
     {
-      "name": "SSC4",
-      "url": "https://ssc4-ak.akamaized.net/out/v1/5267ea5772874b0db24559d643eaad93/index.mpd",
-      "key": "c88b512b17ab4f6cb09eb0ff4a1056ed:adc08ee1c20a734972a55c9aebbd1888"
+      "name": "ABU DHABI SPORT PREMIUM 2",
+      "url": "https://sps2.starzplayarabia.com/out/v1/ff6cef29465f4c3a9b0e8ea5bbf8839f/index.mpd",
+      "key": "ee861edcd99093153a763a94b14c2c5a:ab3991f6a7729ba1ea4bcdba0c1ae6c0"
     },
     {
-      "name": "SSC EXTRA1",
-      "url": "https://ssc-extra1-ak.akamaized.net/out/v1/647c58693f1d46af92bd7e69f17912cb/index.mpd",
-      "key": "ecbc9e6fe6b145efb6658fb5cf7427f8:03c17e28911f71221acbc0b11f900401"
-    },
-    {
-      "name": "SSC EXTRA2",
-      "url": "https://ssc-extra2-ak.akamaized.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/index.mpd",
-      "key": "4d89249bd4ca4ebc9e70443265f9507d:cf074ffd2646c9c2f8513b47fa57bc30"
-    },
-    {
-      "name": "SSC EXTRA3",
-      "url": "https://ssc-extra3-ak.akamaized.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/index.mpd",
-      "key": "98cfd6fd4812497fb24dc75f7545f2ee:d3006ee69e77b25939728ebf30d3180a"
+      "name": "STARZPLAY SPORTS",
+      "url": "https://sps3.starzplayarabia.com/out/v1/95528122fa434bcd948c9ed2e7afabee/index.mpd",
+      "key": "117c29396ec6fd295880013241a466e1:3dfb883251884e66d784111877c44b13"
     }
   ]
 }
