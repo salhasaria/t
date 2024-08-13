@@ -1,29 +1,29 @@
 {
   "STARZPLAY": [
     {
-      "name": "ABU DHABI SPORT 1",
-      "url": "https://live-d-01-todtv-da.akamaized.net/Content/DASH_DASH/Live/channel(ent-hd-31)/manifest.mpd?hdnts=st=1722987756~exp=1723002156~acl=/Content/*~id=fa74f5a4-a3cf-453f-b9ce-aaaa0294385b~data=53b67cbf-b808-4e1b-9b0f-e132892db0e1~hmac=ac4349da5698cb7c569c15877f452bb81cc0f5bd64226c54ff6cc9167a791d74&hdcore=2.11.3",
+      "name": "bein gourmet",
+      "url": "https://live-d-01-todtv-da.akamaized.net/Content/DASH_DASH/Live/channel(ent-hd-30)/manifest.mpd?hdnts=st=1723583809~exp=1723598209~acl=/Content/*~id=fa74f5a4-a3cf-453f-b9ce-aaaa0294385b~data=ffe1e006-aa6c-4c58-8bce-4c04ae79ed90~hmac=3cb126bdd1eebd19d3d2599b98ed1bfac3fe5321b7f90b6986932b693d092edf&hdcore=2.11.3",
       "key": "0a7934dddc3136a6922584b96c3fd1e5:676e6d1dd00bfbe266003efaf0e3aa02"
     },
     {
-      "name": "ABU DHABI SPORT 2",
-      "url": "https://adsp2.starzplayarabia.com/out/v1/6a5b2f1fea49459599ac1e58568c7e4a/index.mpd",
-      "key": "1ae76d26b3d348e3eb071c3342e940f8:cc9f0c73ad0dde1aa0953b17c0ba6b6f"
+      "name": "bbc earth",
+      "url": "https://live-d-01-todtv-da.akamaized.net/Content/DASH_DASH/Live/channel(ent-hd-12)/manifest.mpd?hdnts=st=1723584382~exp=1723598782~acl=/Content/*~id=fa74f5a4-a3cf-453f-b9ce-aaaa0294385b~data=72239889-52f8-4614-a7de-bc847d02131b~hmac=5ab461b35ef510209f2b41a5d825f129fea9029d4377a56b72b5c9eb85b73804&hdcore=2.11.3",
+      "key": "0a7934dddc3136a6922584b96c3fd1e5:676e6d1dd00bfbe266003efaf0e3aa02"
     },
     {
-      "name": "ABU DHABI SPORT PREMIUM 1",
-      "url": "https://sps1.starzplayarabia.com/out/v1/41ff8fde1cd84ed5b30ab8198755356b/index.mpd",
-      "key": "b253c726c24c7c94a3ddf9b1907e2c76:097963d6ad73c3d712a104981de0ed42"
+      "name": "star films",
+      "url": "https://live-d-01-todtv-da.akamaized.net/Content/DASH_DASH/Live/channel(ent-hd-09)/manifest.mpd?hdnts=st=1723584553~exp=1723598953~acl=/Content/*~id=fa74f5a4-a3cf-453f-b9ce-aaaa0294385b~data=4a3e1852-ef22-4bcd-afc2-306a8509dffb~hmac=0415bbcb1f24b316539cf264e98828ecfe24632191ff4b7a502da27a1c300fe4&hdcore=2.11.3",
+      "key": "0a7934dddc3136a6922584b96c3fd1e5:676e6d1dd00bfbe266003efaf0e3aa02"
     },
     {
       "name": "ABU DHABI SPORT PREMIUM 2",
       "url": "https://sps2.starzplayarabia.com/out/v1/ff6cef29465f4c3a9b0e8ea5bbf8839f/index.mpd",
-      "key": "ee861edcd99093153a763a94b14c2c5a:ab3991f6a7729ba1ea4bcdba0c1ae6c0"
+      "key": "0a7934dddc3136a6922584b96c3fd1e5:676e6d1dd00bfbe266003efaf0e3aa02"
     },
     {
       "name": "STARZPLAY SPORTS",
       "url": "https://sps3.starzplayarabia.com/out/v1/95528122fa434bcd948c9ed2e7afabee/index.mpd",
-      "key": "117c29396ec6fd295880013241a466e1:3dfb883251884e66d784111877c44b13"
+      "key": "0a7934dddc3136a6922584b96c3fd1e5:676e6d1dd00bfbe266003efaf0e3aa02"
     }
   ]
 }
