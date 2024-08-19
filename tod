@@ -2,7 +2,7 @@
   "STARZPLAY": [
     {
       "name": "bein gourmet",
-      "url": "https://cdxaws-ak.akamaized.net/out/v1/14ef80a0c7134b3883a271a568eae3ed/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264",
+      "url": "https://cdxaws-ak.akamaized.net/out/v1/14ef80a0c7134b3883a271a568eae3ed/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd?aws.manifestfilter=video_height:144-1080",
       "key": "055dbaf377e84333a3adade7482c5342:20600e5f4170c0b8943c86ef47998420"
     },
     {
