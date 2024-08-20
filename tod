@@ -2,8 +2,8 @@
   "STARZPLAY": [
     {
       "name": "bein gourmet",
-      "url": "https://cdxaws-ak.akamaized.net/out/v1/14ef80a0c7134b3883a271a568eae3ed/22166333d51a4d528478144cc30fc048/65aee16b2775429e8add39c54f7b6995/index.mpd?aws.manifestfilter=video_height:144-1080",
-      "key": "055dbaf377e84333a3adade7482c5342:20600e5f4170c0b8943c86ef47998420"
+      "url": "https://vod-d-01-todtv-da.akamaized.net/Content/DASH/VOD/5517/13487/2c93cbee-e413-4021-bf2e-3f06b7c28be3/891c6d21-c7da-617f-8398-6deddcb8a970/manifest.mpd?hdnts=st=1724159980~exp=1724174380~acl=/Content/DASH/VOD/5517/13487/2c93cbee-e413-4021-bf2e-3f06b7c28be3/891c6d21-c7da-617f-8398-6deddcb8a970/*~id=9ffb2df8-dc4d-4df1-a0b0-bec89913cf3c~data=ed9b35a5-1fe4-4e74-8c5a-b9709b6e87b0~hmac=f1b1786899e3f0c300d236c7569ad4701e29edb2c204a7be017775eb351c0fe5&hdcore=2.11.3",
+      "key": "0604b1ea177737aa89decadbd35a4938:fa176304938e4f96849d402603c48cea"
     },
     {
       "name": "bbc earth",
