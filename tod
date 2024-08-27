@@ -2,8 +2,8 @@
   "STARZPLAY": [
     {
       "name": "bein gourmet",
-      "url": "https://vod-d-01-todtv-da.akamaized.net/Content/DASH/VOD/2962/13890/a0568350-1eef-4fcb-bee1-24de19a9e989/891c6d21-c7da-617f-8398-6deddcb8a970/manifest.mpd?hdnts=st=1724679755~exp=1724694155~acl=/Content/DASH/VOD/2962/13890/a0568350-1eef-4fcb-bee1-24de19a9e989/891c6d21-c7da-617f-8398-6deddcb8a970/*~id=9ffb2df8-dc4d-4df1-a0b0-bec89913cf3c~data=42235c37-d49d-4d30-9e55-dc79af13fa80~hmac=c8392ccb9d6b45c1d0ad9323a3a5505675204b8f9f687375e128980d242ebe9a&hdcore=2.11.3",
-      "key": "5f34872b673a3fc08f843f3e7f0b9a02:5ab5024b62e6fb28fc6c32009db13b5a"
+      "url": "https://vod-d-01-todtv-da.akamaized.net/Content/DASH/VOD/13558/6579/14445fea-ac88-4764-8614-b9cf3eac7aff/891c6d21-c7da-617f-8398-6deddcb8a970/manifest.mpd?hdnts=st=1724766812~exp=1724781212~acl=/Content/DASH/VOD/13558/6579/14445fea-ac88-4764-8614-b9cf3eac7aff/891c6d21-c7da-617f-8398-6deddcb8a970/*~id=9ffb2df8-dc4d-4df1-a0b0-bec89913cf3c~data=24266838-18e6-4283-99b4-eec4f791305b~hmac=28ed28dc968c764cf54ade92aaa7f7cd609062167801b756846f75d1ef4eaaa6&hdcore=2.11.3",
+      "key": "3708c4cec9173819a053ed6259b971c0:653e97d5f917bcdfa73b6ea9851b29f1"
     },
     {
       "name": "bbc earth",
