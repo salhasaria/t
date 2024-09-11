@@ -2,8 +2,8 @@
   "STARZPLAY": [
     {
       "name": "bein gourmet",
-      "url": "https://live-d-01-todtv-da.akamaized.net/Content/DASH_DASH/Live/channel(ent-hd-30)/manifest.mpd?hdnts=st=1725562279~exp=1725576679~acl=/Content/*~id=9ffb2df8-dc4d-4df1-a0b0-bec89913cf3c~data=33bd5597-38ed-45f9-b1fe-fa2b6e28820f~hmac=381ca0a55ef93460ae11a28ccb663123391dadca41ffdf2abd8d5bf7a9c2b9c7&hdcore=2.11.3",
-      "key": "0a7934dddc3136a6922584b96c3fd1e5:676e6d1dd00bfbe266003efaf0e3aa02"
+      "url": "https://wkvideo9-a.akamaihd.net/5849/ar_s_v-5849-22/v01/dash/h264.mpd",
+      "key": "40e68c0ce7bd7eb2fbc53543f8336ff0:9788263481e9517b1ab81fafe4394281"
     },
     {
       "name": "bbc earth",
