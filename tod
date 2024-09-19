@@ -2,7 +2,7 @@
   "STARZPLAY": [
     {
       "name": "bein gourmet",
-      "url": "https://live-d-01-todtv-da.akamaized.net/Content/DASH_DASH/Live/channel(ent-hd-30)/manifest.mpd?hdnts=st=1726167121~exp=1726181521~acl=/Content/*~id=9ffb2df8-dc4d-4df1-a0b0-bec89913cf3c~data=ce5116df-6639-4f30-9e4d-e5ef4ceb25ba~hmac=133afa16f203e927ea0a66230234f8d41397d8428e605dd4002dba8267b74b5a&hdcore=2.11.3",
+      "url": "https://live-d-01-todtv-da.akamaized.net/Content/DASH_DASH/Live/channel(ent-hd-30)/manifest.mpd?hdnts=st=1726775717~exp=1726790117~acl=/Content/*~id=9ffb2df8-dc4d-4df1-a0b0-bec89913cf3c~data=cd7814c0-5e25-431c-97ec-b2e081f69cc7~hmac=e67091a16eea3784f459cace4e19e0ab7c919490b234a51b02ac51b5c2a79d07&hdcore=2.11.3",
       "key": "0a7934dddc3136a6922584b96c3fd1e5:676e6d1dd00bfbe266003efaf0e3aa02"
     },
     {
@@ -12,22 +12,22 @@
     },
     {
       "name": "star films",
-      "url": "https://live-d-01-todtv-da.akamaized.net/Content/DASH_DASH/Live/channel(ent-hd-09)/manifest.mpd?hdnts=st=1726167037~exp=1726181437~acl=/Content/*~id=9ffb2df8-dc4d-4df1-a0b0-bec89913cf3c~data=9db42f43-f2b0-44ad-8a80-4611f3527ac3~hmac=8b83675ca44f86c2819da382a607aedd3bc322dabd09ee95a5d35b03c5048d1c&hdcore=2.11.3",
+      "url": "https://live-d-01-todtv-da.akamaized.net/Content/DASH_DASH/Live/channel(ent-hd-09)/manifest.mpd?hdnts=st=1726775671~exp=1726790071~acl=/Content/*~id=9ffb2df8-dc4d-4df1-a0b0-bec89913cf3c~data=55b3e5ab-a2fb-4b99-b811-2332360dcc3e~hmac=a0ff03c0850da47d0fa247da821d63c06e61d615ceea8fbd9a21e2a5a9dd6774&hdcore=2.11.3",
       "key": "0a7934dddc3136a6922584b96c3fd1e5:676e6d1dd00bfbe266003efaf0e3aa02"
     },
     {
       "name": "baraem",
-      "url": "https://live-d-01-todtv-da.akamaized.net/Content/DASH_DASH/Live/channel(ent-hd-32)/manifest.mpd?hdnts=st=1726167314~exp=1726181714~acl=/Content/*~id=9ffb2df8-dc4d-4df1-a0b0-bec89913cf3c~data=cdcaaa91-e507-4337-ba15-82cdc04f04b0~hmac=1b9baedbd227a7792237c87741695414b2ce3123300739f103c368377a32e872&hdcore=2.11.3",
+      "url": "https://live-d-01-todtv-da.akamaized.net/Content/DASH_DASH/Live/channel(ent-hd-32)/manifest.mpd?hdnts=st=1726775813~exp=1726790213~acl=/Content/*~id=9ffb2df8-dc4d-4df1-a0b0-bec89913cf3c~data=1c43b026-651f-496b-ba0b-b81c353a5984~hmac=5557f66084fc649e9af9532a76619518e526f8332769e0071e40bc7ce09d003e&hdcore=2.11.3",
       "key": "0a7934dddc3136a6922584b96c3fd1e5:676e6d1dd00bfbe266003efaf0e3aa02"
     },
     {
       "name": "jeem",
-      "url": "https://live-d-01-todtv-da.akamaized.net/Content/DASH_DASH/Live/channel(ent-hd-31)/manifest.mpd?hdnts=st=1726167282~exp=1726181682~acl=/Content/*~id=9ffb2df8-dc4d-4df1-a0b0-bec89913cf3c~data=e16f0e2e-2177-46d2-bf05-8b944b404e5c~hmac=b5b67c709624b4b723b0027406a89ad210f4949439e7299cb68f37505e7ffe88&hdcore=2.11.3",
+      "url": "https://live-d-01-todtv-da.akamaized.net/Content/DASH_DASH/Live/channel(ent-hd-31)/manifest.mpd?hdnts=st=1726775782~exp=1726790182~acl=/Content/*~id=9ffb2df8-dc4d-4df1-a0b0-bec89913cf3c~data=a919415b-feaf-4c72-98f1-a95a06807fee~hmac=dec936e9649711e7d6f2c3387ded40ff11e0b6aafa71f7bf79e2a897f876592e&hdcore=2.11.3",
       "key": "0a7934dddc3136a6922584b96c3fd1e5:676e6d1dd00bfbe266003efaf0e3aa02"
     },
     {
       "name": "fatafeet",
-      "url": "https://live-d-01-todtv-da.akamaized.net/Content/DASH_DASH/Live/channel(ent-hd-27)/manifest.mpd?hdnts=st=1726167182~exp=1726181582~acl=/Content/*~id=9ffb2df8-dc4d-4df1-a0b0-bec89913cf3c~data=81917eba-7b7b-4dee-be3c-0761d2f1a19b~hmac=bd618451b7d064be3f621b7aeb2f31431e3c56203cdac89707dd78667443b5c6&hdcore=2.11.3",
+      "url": "https://live-d-01-todtv-da.akamaized.net/Content/DASH_DASH/Live/channel(ent-hd-27)/manifest.mpd?hdnts=st=1726775758~exp=1726790158~acl=/Content/*~id=9ffb2df8-dc4d-4df1-a0b0-bec89913cf3c~data=215be900-48e1-4bef-81d5-9341ab87cbf7~hmac=8e98892dd79f511943a02cccf3aad3fa3a3a7b28fba80f226f9fd2842d16fc28&hdcore=2.11.3",
       "key": "0a7934dddc3136a6922584b96c3fd1e5:676e6d1dd00bfbe266003efaf0e3aa02"
     },
     {
@@ -37,12 +37,12 @@
     },
     {
       "name": "dreamworks",
-      "url": "https://live-d-01-todtv-da.akamaized.net/Content/DASH_DASH/Live/channel(ent-hd-23)/manifest.mpd?hdnts=st=1726167345~exp=1726181745~acl=/Content/*~id=9ffb2df8-dc4d-4df1-a0b0-bec89913cf3c~data=d92cb0eb-69d3-4c5b-b8a0-74355caa951d~hmac=d35ea1ad69e84852e18e4ee433ed5519fd02675ef260bb5d1abd2efd521fa700&hdcore=2.11.3",
+      "url": "https://live-d-01-todtv-da.akamaized.net/Content/DASH_DASH/Live/channel(ent-hd-23)/manifest.mpd?hdnts=st=1726775845~exp=1726790245~acl=/Content/*~id=9ffb2df8-dc4d-4df1-a0b0-bec89913cf3c~data=007c42ba-a1c1-4373-8ba2-a70f5815c469~hmac=9bf8452ea56eafb93876e857e81bf02936c9c241b83c49ac31f72118f72b30c4&hdcore=2.11.3",
       "key": "0a7934dddc3136a6922584b96c3fd1e5:676e6d1dd00bfbe266003efaf0e3aa02"
     },
     {
       "name": "cbeebies",
-      "url": "https://live-d-01-todtv-da.akamaized.net/Content/DASH_DASH/Live/channel(ent-hd-24)/manifest.mpd?hdnts=st=1726167377~exp=1726181777~acl=/Content/*~id=9ffb2df8-dc4d-4df1-a0b0-bec89913cf3c~data=bf200208-e787-4850-b4a6-8850f8add563~hmac=2ed91d40c5e6cc98d9c020e0518e1f002e4f100e0bde8d9319e1c4e34bef0f64&hdcore=2.11.3",
+      "url": "https://live-d-01-todtv-da.akamaized.net/Content/DASH_DASH/Live/channel(ent-hd-24)/manifest.mpd?hdnts=st=1726775887~exp=1726790287~acl=/Content/*~id=9ffb2df8-dc4d-4df1-a0b0-bec89913cf3c~data=f883b64f-b5b9-4764-8f7a-bd98dfa1b704~hmac=ad0c5baeb71ce5865cecbc515e5d021782458e95d8e4e4463f49bf0d5cf76cd6&hdcore=2.11.3",
       "key": "0a7934dddc3136a6922584b96c3fd1e5:676e6d1dd00bfbe266003efaf0e3aa02"
     }
   ]
