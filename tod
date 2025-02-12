@@ -1,8 +1,8 @@
 [
     {
         "name": "Huda Hussain",
-        "url": "https://cdxaws-ak.akamaized.net/v1/channel/Huda_Hussien/index_hls.m3u8?aws.manifestfilter=video_height:144-1080",
-        "key": null
+        "url": "https://mbcvod-enc.edgenextcdn.net/out/v1/8ff608d67bc0429782c1cc73a1f5f754/1db1edf3d1f04af5ae80e7ed1f92a9ea/cc2be4e072e94351900dfdc63ba6462d/manifest.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264&video_height=144-1080&video_codec=H264",
+        "key": "c7c4fc8c0101481aae1b66e4ee61cbb8:08115dae92901de5a6233e6490389213"
     },
     {
         "name": "Al Ostoura",
@@ -17,7 +17,7 @@
     {
         "name": "Hassino",
         "url": "https://mbcvod-enc.edgenextcdn.net/out/v1/3f3d6be39eb74f75a970a9b00d0b8ef2/1db1edf3d1f04af5ae80e7ed1f92a9ea/cc2be4e072e94351900dfdc63ba6462d/manifest.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264&video_height=144-1080&video_codec=H264",
-        "key": "6452cb5b0eea4451a1cc81458d7be55c:e847368f52111371f3b09a0d24c3a245"
+        "key": "c7c4fc8c0101481aae1b66e4ee61cbb8:08115dae92901de5a6233e6490389213"
     },
     {
         "name": "SBC",
