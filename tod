@@ -56,8 +56,8 @@
     },
     {
         "name": "Helwa",
-        "url": "https://shls-live-ak.akamaized.net/out/v1/81153498b61444bfaef4ff09b55e55aa/index.m3u8?aws.manifestfilter=video_height:144-1080",
-        "key": null
+        "url": "https://mbcvod-enc.edgenextcdn.net/out/v1/d4a979d0f7f141a28de392c3e3fcf1ea/1db1edf3d1f04af5ae80e7ed1f92a9ea/cc2be4e072e94351900dfdc63ba6462d/manifest.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264&video_height=144-1080&video_codec=H264",
+        "key": "dc2ba917630144699a7e0deb89b34923:6ebaa88ad399521de5032f0dd62f1d0e"
     },
     {
         "name": "M6 INTERNATIONAL",
