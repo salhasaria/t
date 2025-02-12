@@ -47,12 +47,12 @@
     {
         "name": "Nessma",
         "url": "https://mbcvod-enc.edgenextcdn.net/out/v1/7f199203fba345baa044762b7ddfacc2/1db1edf3d1f04af5ae80e7ed1f92a9ea/cc2be4e072e94351900dfdc63ba6462d/manifest.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264&video_height=144-1080&video_codec=H264",
-        "key": "290adbeb976b4375b68178cd2ba339a2:53709ead1121ccddbd06e8663b8a38b6"
+        "key": "dc2ba917630144699a7e0deb89b34923:6ebaa88ad399521de5032f0dd62f1d0e"
     },
     {
         "name": "Samira TV",
-        "url": "https://shls-live-ak.akamaized.net/out/v1/2daff8b433344d659bd5079224afc3ab/index.m3u8?aws.manifestfilter=video_height:144-1080",
-        "key": null
+        "url": "https://mbcvod-enc.edgenextcdn.net/out/v1/d4a979d0f7f141a28de392c3e3fcf1ea/1db1edf3d1f04af5ae80e7ed1f92a9ea/cc2be4e072e94351900dfdc63ba6462d/manifest.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264&video_height=144-1080&video_codec=H264",
+        "key": "dc2ba917630144699a7e0deb89b34923:6ebaa88ad399521de5032f0dd62f1d0e"
     },
     {
         "name": "Helwa",
