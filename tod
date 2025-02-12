@@ -27,12 +27,12 @@
     {
         "name": "Khaleeji",
         "url": "https://mbcvod-enc.edgenextcdn.net/out/v1/3f3d6be39eb74f75a970a9b00d0b8ef2/1db1edf3d1f04af5ae80e7ed1f92a9ea/cc2be4e072e94351900dfdc63ba6462d/manifest.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264&video_height=144-1080&video_codec=H264",
-        "key": "6452cb5b0eea4451a1cc81458d7be55c:e847368f52111371f3b09a0d24c3a245"
+        "key": "fa39b66bf22946d3bde966717afceb76:31ac2fbb441f568eb40e24dbae92b2ba"
     },
     {
         "name": "Roya",
-        "url": "https://shls-live-ak.akamaized.net/out/v1/f1d7243984224a7e94bc34ff60d9fd53/index.m3u8?aws.manifestfilter=video_height:144-1080",
-        "key": null
+        "url": "https://mbcvod-enc.edgenextcdn.net/out/v1/52115b0a73824da7aff4e15ef76811d9/1db1edf3d1f04af5ae80e7ed1f92a9ea/cc2be4e072e94351900dfdc63ba6462d/manifest.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264&video_height=144-1080&video_codec=H264",
+        "key": "fa39b66bf22946d3bde966717afceb76:31ac2fbb441f568eb40e24dbae92b2ba"
     },
     {
         "name": "Al Sham",
