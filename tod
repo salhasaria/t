@@ -32,12 +32,12 @@
     {
         "name": "Roya",
         "url": "https://mbcvod-enc.edgenextcdn.net/out/v1/52115b0a73824da7aff4e15ef76811d9/1db1edf3d1f04af5ae80e7ed1f92a9ea/cc2be4e072e94351900dfdc63ba6462d/manifest.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264&video_height=144-1080&video_codec=H264",
-        "key": "fa39b66bf22946d3bde966717afceb76:31ac2fbb441f568eb40e24dbae92b2ba"
+        "key": "0a603da2de2f4667b06cb1ff1820e577:da21d722c1aea5b25db71a054f104414"
     },
     {
         "name": "Al Sham",
-        "url": "https://cdxaws-ak.akamaized.net/v1/channel/Al_Sham--/index_hls.m3u8?aws.manifestfilter=video_height:144-1080",
-        "key": null
+        "url": "https://mbcvod-enc.edgenextcdn.net/out/v1/429404cb069e48359b56500ae0ad65a8/1db1edf3d1f04af5ae80e7ed1f92a9ea/cc2be4e072e94351900dfdc63ba6462d/manifest.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264&video_height=144-1080&video_codec=H264",
+        "key": "0a603da2de2f4667b06cb1ff1820e577:da21d722c1aea5b25db71a054f104414"
     },
     {
         "name": "Thikrayat",
