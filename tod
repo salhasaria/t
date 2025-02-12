@@ -21,8 +21,8 @@
     },
     {
         "name": "SBC",
-        "url": "https://mbcvod-enc.edgenextcdn.net/out/v1/357433d02c3c4b898f1b5d5458cd0c1d/1db1edf3d1f04af5ae80e7ed1f92a9ea/cc2be4e072e94351900dfdc63ba6462d/manifest.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264&video_height=144-1080&video_codec=H264",
-        "key": "0809a070b71f42438153b72057e86242:e307f14948d7c93fbc4ba620f0e86e8d"
+        "url": "https://mbcvod-enc.edgenextcdn.net/out/v1/590bf6971a6e4d4199e4442f26ac78cc/1db1edf3d1f04af5ae80e7ed1f92a9ea/cc2be4e072e94351900dfdc63ba6462d/manifest.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264&video_height=144-1080&video_codec=H264",
+        "key": "f21121087b394cb6b4d6aa4dcc5411fc:fd0a3686241bcc9f5021dbe0e99a40a4"
     },
     {
         "name": "Khaleeji",
