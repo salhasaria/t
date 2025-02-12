@@ -16,8 +16,8 @@
     },
     {
         "name": "Hassino",
-        "url": "https://cdxaws-ak.akamaized.net/v1/channel/Hassino_/index_hls.m3u8?aws.manifestfilter=video_height:144-1080",
-        "key": null
+        "url": "https://mbcvod-enc.edgenextcdn.net/out/v1/8f2bebe371e849ab9002bbd9dd2aa3a2/1db1edf3d1f04af5ae80e7ed1f92a9ea/cc2be4e072e94351900dfdc63ba6462d/manifest.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264&video_height=144-1080&video_codec=H264",
+        "key": "2769a64996e84162b4b707bb58c4b0eb:3367d2334906f4e2c2b471ba82108b54"
     },
     {
         "name": "SBC",
