@@ -42,12 +42,12 @@
     {
         "name": "Thikrayat",
         "url": "https://thikrayat-tv-prod-dub-ak.akamaized.net/out/v1/af636a943ca443a9b1776488c5fb9a64/index.mpd?aws.manifestfilter=video_height:144-1080",
-        "key": "aff9ea39e4df4bef83d95284c1b2c69f:ecbc98275afea82349ad2fc3643324ea"
+        "key": "290adbeb976b4375b68178cd2ba339a2:53709ead1121ccddbd06e8663b8a38b6"
     },
     {
         "name": "Nessma",
-        "url": "https://shls-live-ak.akamaized.net/out/v1/119ae95bbc91462093918a7c6ba11415/index.m3u8?aws.manifestfilter=video_height:144-1080",
-        "key": null
+        "url": "https://mbcvod-enc.edgenextcdn.net/out/v1/7f199203fba345baa044762b7ddfacc2/1db1edf3d1f04af5ae80e7ed1f92a9ea/cc2be4e072e94351900dfdc63ba6462d/manifest.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264&video_height=144-1080&video_codec=H264",
+        "key": "290adbeb976b4375b68178cd2ba339a2:53709ead1121ccddbd06e8663b8a38b6"
     },
     {
         "name": "Samira TV",
