@@ -7,12 +7,12 @@
     {
         "name": "Al Ostoura",
         "url": "https://mbcvod-enc.edgenextcdn.net/out/v1/1715ddc2d0e14dc09516dd6f18be3ea7/1db1edf3d1f04af5ae80e7ed1f92a9ea/cc2be4e072e94351900dfdc63ba6462d/manifest.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264&video_height=144-1080&video_codec=H264",
-        "key": "e5511b9f60df4ba997dda0e748e072ad:ecf889de50f9a20b117d7dcc7acc7122"
+        "key": "f4c3d42727c14e599885a9b06876b203:8614a3adccdefdf4f0a5ed32a9be7caf"
     },
     {
         "name": "Al Zaeem",
-        "url": "https://cdxaws-ak.akamaized.net/v1/channel/AlZaeem--/index_hls.m3u8?aws.manifestfilter=video_height:144-1080",
-        "key": null
+        "url": "https://mbcvod-enc.edgenextcdn.net/out/v1/a274019762154087a9877062f6749763/1db1edf3d1f04af5ae80e7ed1f92a9ea/cc2be4e072e94351900dfdc63ba6462d/manifest.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264&video_height=144-1080&video_codec=H264",
+        "key": "f4c3d42727c14e599885a9b06876b203:8614a3adccdefdf4f0a5ed32a9be7caf"
     },
     {
         "name": "Hassino",
