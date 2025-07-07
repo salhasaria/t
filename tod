@@ -26,7 +26,7 @@
     },
     {
         "name": "Khaleeji",
-        "url": "https://todtv-live-ent-prod.akamaized.net/Content/DASH_DASH_DT/Live/channel(ent-hd-01)/playlist_ha.mpd?hdnts=st=1751920482~exp=1751920651~acl=*/Content/DASH_DASH_DT/Live/channel(ent-hd-01)/*~id=d0ca8012-d3a7-4b82-bd88-917ed96e09e2~data=aXA9MTAyLjIxMS41LjI3~hmac=f02f8adc2898ca9aaa6a1d9d8f1034645b440ca77f6cd059dbc9fca29e90af61",
+        "url": "https://todtv-live-ent-prod.akamaized.net/Content/DASH_DASH_DT/Live/channel(ent-hd-01)/hdntl=exp=1751942827~acl=*%2fContent%2fDASH_DASH_DT%2fLive%2fchannel(ent-hd-01)%2f*~id=d0ca8012-d3a7-4b82-bd88-917ed96e09e2~data=hdntl,aXA9MTAyLjIxMS41LjI3~hmac=4498651a987f6484ac0d0773e38eac9c836619b2106c3bf24ad81c2a9335e6e3/playlist_ha.mpd",
         "key": "de2e89e6e7fd3fd7b564a1ae4d019968:543b39583fea54c70fb6e9186da930ca"
     },
     {
