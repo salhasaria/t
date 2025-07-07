@@ -26,8 +26,8 @@
     },
     {
         "name": "Khaleeji",
-        "url": "https://mbcvod-enc.edgenextcdn.net/out/v1/3f3d6be39eb74f75a970a9b00d0b8ef2/1db1edf3d1f04af5ae80e7ed1f92a9ea/cc2be4e072e94351900dfdc63ba6462d/manifest.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264&video_height=144-1080&video_codec=H264",
-        "key": "fa39b66bf22946d3bde966717afceb76:31ac2fbb441f568eb40e24dbae92b2ba"
+        "url": "https://todtv-live-ent-prod.akamaized.net/Content/DASH_DASH_DT/Live/channel(ent-hd-01)/playlist_ha.mpd?hdnts=st=1751920482~exp=1751920651~acl=*/Content/DASH_DASH_DT/Live/channel(ent-hd-01)/*~id=d0ca8012-d3a7-4b82-bd88-917ed96e09e2~data=aXA9MTAyLjIxMS41LjI3~hmac=f02f8adc2898ca9aaa6a1d9d8f1034645b440ca77f6cd059dbc9fca29e90af61",
+        "key": "de2e89e6e7fd3fd7b564a1ae4d019968:543b39583fea54c70fb6e9186da930ca"
     },
     {
         "name": "Roya",
