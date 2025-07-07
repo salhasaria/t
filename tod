@@ -31,8 +31,8 @@
     },
     {
         "name": "Roya",
-        "url": "https://mbcvod-enc.edgenextcdn.net/out/v1/52115b0a73824da7aff4e15ef76811d9/1db1edf3d1f04af5ae80e7ed1f92a9ea/cc2be4e072e94351900dfdc63ba6462d/manifest.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264&video_height=144-1080&video_codec=H264",
-        "key": "0a603da2de2f4667b06cb1ff1820e577:da21d722c1aea5b25db71a054f104414"
+        "url": "https://todtv-live-ent-prod.akamaized.net/Content/DASH_DASH_DT/Live/channel(ent-hd-01)/hdntl=exp=1751942827~acl=*%2fContent%2fDASH_DASH_DT%2fLive%2fchannel(ent-hd-01)%2f*~id=d0ca8012-d3a7-4b82-bd88-917ed96e09e2~data=hdntl,aXA9MTAyLjIxMS41LjI3~hmac=4498651a987f6484ac0d0773e38eac9c836619b2106c3bf24ad81c2a9335e6e3/playlist_ha.mpd",
+        "key": "de2e89e6e7fd3fd7b564a1ae4d019968:543b39583fea54c70fb6e9186da930ca"
     },
     {
         "name": "Al Sham",
