@@ -6,8 +6,8 @@
     },
     {
         "name": "Al Ostoura",
-        "url": "https://mbcvod-enc.edgenextcdn.net/out/v1/1715ddc2d0e14dc09516dd6f18be3ea7/1db1edf3d1f04af5ae80e7ed1f92a9ea/cc2be4e072e94351900dfdc63ba6462d/manifest.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264&video_height=144-1080&video_codec=H264",
-        "key": "f4c3d42727c14e599885a9b06876b203:8614a3adccdefdf4f0a5ed32a9be7caf"
+        "url": "https://todtv-live-ent-prod.akamaized.net/Content/DASH_DASH_DT/Live/channel(ent-hd-05)/playlist_ha.mpd?hdnts=st=1752347262~exp=1752347431~acl=*/Content/DASH_DASH_DT/Live/channel(ent-hd-05)/*~id=d0ca8012-d3a7-4b82-bd88-917ed96e09e2~data=aXA9MTAyLjIxMS41LjI3~hmac=dbf2b51b671ad9a2afc8b83fa2f13843ffa2f3cdc3679611753606a9c9bd83e9",
+        "key": "a3abcffe8f9a3103bb91b7879b31967d:1791fc9b6aaf90e134c515a51950725e"
     },
     {
         "name": "Al Zaeem",
