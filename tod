@@ -21,8 +21,8 @@
     },
     {
         "name": "SBC",
-        "url": "https://mbcvod-enc.edgenextcdn.net/out/v1/3f3d6be39eb74f75a970a9b00d0b8ef2/1db1edf3d1f04af5ae80e7ed1f92a9ea/cc2be4e072e94351900dfdc63ba6462d/manifest.mpd?aws.manifestfilter=video_height:144-1080;video_codec:H264&video_height=144-1080&video_codec=H264",
-        "key": "6452cb5b0eea4451a1cc81458d7be55c:e847368f52111371f3b09a0d24c3a245"
+        "url": "https://todtv-live-ent-prod.akamaized.net/Content/DASH_DASH_DT/Live/channel(ent-hd-05)/playlist_ha.mpd?hdnts=st=1752430894~exp=1752431063~acl=*/Content/DASH_DASH_DT/Live/channel(ent-hd-05)/*~id=fa74f5a4-a3cf-453f-b9ce-aaaa0294385b~data=aXA9MTAyLjIxMS41LjI3~hmac=6065b83ae45381241749e644461d36aa1ffb7816029260578dfae6456790aeeb",
+        "key": "a3abcffe8f9a3103bb91b7879b31967d:1791fc9b6aaf90e134c515a51950725e"
     },
     {
         "name": "Khaleeji",
