@@ -21,7 +21,7 @@
     },
     {
         "name": "SBC",
-        "url": "https://todtv-live-ent-prod.akamaized.net/Content/DASH_DASH_DT/Live/channel(ent-hd-05)/playlist_ha.mpd?hdnts=st=1752434388~exp=1752434557~acl=*/Content/DASH_DASH_DT/Live/channel(ent-hd-05)/*~id=fa74f5a4-a3cf-453f-b9ce-aaaa0294385b~data=aXA9MTAyLjIxMS41LjI3~hmac=561083716101f1af227b3c4837e21b8937a8c5b3a8758fa19133c7225f5f88c5",
+        "url": "https://todtv-live-ent-prod.akamaized.net/Content/DASH_DASH_DT/Live/channel(ent-hd-05)/hdntl=exp=1752456039~acl=*%2fContent%2fDASH_DASH_DT%2fLive%2fchannel(ent-hd-05)%2f*~id=fa74f5a4-a3cf-453f-b9ce-aaaa0294385b~data=hdntl,aXA9MTAyLjIxMS41LjI3~hmac=bf26c1fc303496fd852d0ea0f0cc9da2ff598a9530532e8d18ace927f53e31a5/playlist_ha.mpd",
         "key": "a3abcffe8f9a3103bb91b7879b31967d:1791fc9b6aaf90e134c515a51950725e"
     },
     {
