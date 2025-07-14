@@ -11,7 +11,7 @@
     },
     {
         "name": "Al Zaeem",
-        "url": "https://todtv-live-ent-prod.akamaized.net/Content/DASH_DASH_DT/Live/channel(ent-hd-01)/hdntl=exp=1752201509~acl=*%2fContent%2fDASH_DASH_DT%2fLive%2fchannel(ent-hd-01)%2f*~id=d0ca8012-d3a7-4b82-bd88-917ed96e09e2~data=hdntl,aXA9MTAyLjIxMS41LjI3~hmac=2409c11b706c561788bae25d0bb82450dbba298232645f9cfb975b57c8428ceb/1742546636795item-07item_Segment-4532422087803346.mpd",
+        "url": "https://todtv-live-ent-prod.akamaized.net/Content/DASH_DASH_DT/Live/channel(ent-hd-05)/playlist_ha.mpd?hdnts=st=1752529758~exp=1752529928~acl=*/Content/DASH_DASH_DT/Live/channel(ent-hd-05)/*~id=fa74f5a4-a3cf-453f-b9ce-aaaa0294385b~data=aXA9MTAyLjIxMS41LjI3~hmac=16d6ba71611b0a60bbd70ae2d5a24ea501cb5c0b736f3857c9b26eb59fb46a4d",
         "key": "de2e89e6e7fd3fd7b564a1ae4d019968:543b39583fea54c70fb6e9186da930ca"
     },
     {
