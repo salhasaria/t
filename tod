@@ -7,8 +7,9 @@
     },
     
     {
-      "name": "National Geographic",
-      "url": "https://uselector.cdn.intigral-ott.net/NGO/NGO.isml/manifest.mpd$OPT:adaptive-init-on-each-segment$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=e0f94dbfbf9e6e45c9567a7b50eb612c}"
+      "name": "stc sports HD1",
+      "url": "https://pop1e11.cdn.intigral-ott.net/bpk-token/1ar@q1t1zodlpoh1ng2upu5rohxt3o242ow1qpmkwcaa/JAW1/JAW1.isml/manifest.mpd",
+      "key": "e74c7d697bd26595b196c6b96e2d4f5b:e288110233737502e8af9184098ab50b"
     },
 
     {
