@@ -49,8 +49,8 @@
     },
     {
       "name": "Alsharq Alawthaekeya",
-      "url": "https://uselector.cdn.intigral-ott.net/ASHW/ASHW.isml/manifest.mpd",
-      "key": "be20db73c8ec461007f1d2ea9bd94110:7a2fa6ebc8469ff8823297bceca60ec3"
+      "url": "https://todtv-live-ent-prod.akamaized.net/Content/DASH_DASH_DT/Live/channel(ent-hd-01)/hdntl=exp=1752977671~acl=*%2fContent%2fDASH_DASH_DT%2fLive%2fchannel(ent-hd-01)%2f*~id=fa74f5a4-a3cf-453f-b9ce-aaaa0294385b~data=hdntl,aXA9MTAyLjIxMS41LjI3~hmac=3f0f3bc520550b6cb3c2be9bbcc92af42c90168de85414a8e220b4a461c628e1/playlist_ha.mpd",
+      "key": "de2e89e6e7fd3fd7b564a1ae4d019968:543b39583fea54c70fb6e9186da930ca"
     },
     {
       "name": "Alsharq Discovery",
