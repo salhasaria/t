@@ -61,8 +61,8 @@
   "Entertainment": [
     {
       "name": "KSA 1",
-      "url": "https://uselector.cdn.intigral-ott.net/KSA1/KSA1.isml/manifest.mpd",
-      "key": "74206a6415616eaa383754ac4a7e4e0c:4efdc868ec53656d4f3ec8e09b814402"
+      "url": "https://uselector.cdn.intigral-ott.net/Content/DASH_DASH_DT/Live/channel(ent-hd-01)/hdntl=exp=1752977279~acl=*%2fContent%2fDASH_DASH_DT%2fLive%2fchannel(ent-hd-01)%2f*~id=fa74f5a4-a3cf-453f-b9ce-aaaa0294385b~data=hdntl,aXA9MTAyLjIxMS41LjI3~hmac=825181fe3119510fe8647e515e26d65e9a362d5d74ce19a79b06b1828468b21c/playlist_ha.mpd",
+      "key": "de2e89e6e7fd3fd7b564a1ae4d019968:543b39583fea54c70fb6e9186da930ca"
     },
     {
       "name": "SBC",
