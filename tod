@@ -19,8 +19,8 @@
     
     {
       "name": "National Geographic WILD",
-      "url": "https://todtv-live-ent-prod.akamaized.net/Content/DASH_DASH_DT/Live/channel(ent-hd-01)/playlist_ha.mpd?hdnts=st=1752884295~exp=1752884465~acl=*/Content/DASH_DASH_DT/Live/channel(ent-hd-01)/*~id=fa74f5a4-a3cf-453f-b9ce-aaaa0294385b~data=aXA9MTAyLjE2NC4xMDAuMzI~hmac=b63bcf37fb1b551282f5610f636f8f860ca548721457230b22f9f5e7fe496e51",
-      "key": "3732277c2b3511cb1754d76122398783:5dd5f41999737434db2fd8cb1dcafec5"
+      "url": "https://uselector.cdn.intigral-ott.net/NHD/NHD.isml/manifest.mpd",
+      "key": "276e56bc14095f327bbf0c936eb7b38c:63127eaddb18c596db05657424849519"
     },
     {
       "name": "HGTV",
