@@ -66,8 +66,8 @@
     },
     {
       "name": "SBC",
-      "url": "https://uselector.cdn.intigral-ott.net/KST/KST.isml/manifest.mpd",
-      "key": "dbeadd802d38db99384d36b08344d303:f67885a1e6a52f11eb133dc422144434"
+      "url": "https://todtv-live-ent-prod.akamaized.net/Content/DASH_DASH_DT/Live/channel(ent-hd-05)/playlist_ha.mpd?hdnts=st=1752957306~exp=1752957475~acl=*/Content/DASH_DASH_DT/Live/channel(ent-hd-05)/*~id=fa74f5a4-a3cf-453f-b9ce-aaaa0294385b~data=aXA9MTAyLjIxMS41LjI3~hmac=b6ca095842f049572ffeb079127affcc9de8eff43f298ee636ed0b811159d0fe",
+      "key": "a3abcffe8f9a3103bb91b7879b31967d:1791fc9b6aaf90e134c515a51950725e"
     },
     {
       "name": "MBC 1 HD",
