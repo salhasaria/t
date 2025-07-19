@@ -6,7 +6,7 @@
     },
     {
         "name": "Al Ostoura",
-        "url": "https://todtv-live-ent-prod.akamaized.net/Content/DASH_DASH_DT/Live/channel(ent-hd-05)/playlist_ha.mpd?hdnts=st=1752530088~exp=1752530257~acl=*/Content/DASH_DASH_DT/Live/channel(ent-hd-05)/*~id=fa74f5a4-a3cf-453f-b9ce-aaaa0294385b~data=aXA9MTAyLjIxMS41LjI3~hmac=1597cbab5f64465941866ef9971ffc1d16f8bf4bb3c474935eef0772e5f93f8b",
+        "url": "https://todtv-live-ent-prod.akamaized.net/Content/DASH_DASH_DT/Live/channel(ent-hd-01)/playlist_ha.mpd?hdnts=st=1752883338~exp=1752883508~acl=*/Content/DASH_DASH_DT/Live/channel(ent-hd-01)/*~id=fa74f5a4-a3cf-453f-b9ce-aaaa0294385b~data=aXA9MTAyLjE2NC4xMDAuMzI~hmac=c25f1be86c4db6fa0412d64ef54e6134590348c30de29c4a11fd0ab7e2f1526a",
         "key": "a3abcffe8f9a3103bb91b7879b31967d:1791fc9b6aaf90e134c515a51950725e"
     },
     {
