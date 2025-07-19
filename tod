@@ -34,8 +34,8 @@
     },
     {
       "name": "bein drama",
-      "url": "https://todtv-live-ent-prod.akamaized.net/Content/DASH_DASH_DT/Live/channel(ent-hd-05)/playlist_ha.mpd?hdnts=st=1752957306~exp=1752957475~acl=*/Content/DASH_DASH_DT/Live/channel(ent-hd-05)/*~id=fa74f5a4-a3cf-453f-b9ce-aaaa0294385b~data=aXA9MTAyLjIxMS41LjI3~hmac=b6ca095842f049572ffeb079127affcc9de8eff43f298ee636ed0b811159d0fe",
-      "key": "0a7934dddc3136a6922584b96c3fd1e5:676e6d1dd00bfbe266003efaf0e3aa02"
+      "url": "https://todtv-live-ent-prod.akamaized.net/Content/DASH_DASH_DT/Live/channel(ent-hd-06)/playlist_ha.mpd?hdnts=st=1752960102~exp=1752960271~acl=*/Content/DASH_DASH_DT/Live/channel(ent-hd-06)/*~id=fa74f5a4-a3cf-453f-b9ce-aaaa0294385b~data=aXA9MTAyLjIxMS41LjI3~hmac=b76d583ddfa6b5880cdd7a34246f3fa188c333b362ef693f21c11ff3e1f46ab7",
+      "key": "e999143f85943d3dbf0cbaeb56285085:781e69188b2ad30586d5188db1ea3d91"
     },
     {
       "name": "Discovery Family HD",
