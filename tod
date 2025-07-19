@@ -39,8 +39,8 @@
     },
     {
       "name": "Discovery Family HD",
-      "url": "https://uselector.cdn.intigral-ott.net/Titles/S0011013001011/S0011013001011.ism/manifest.mpd",
-      "key": "f24de5e6a089dd5b6e8038d7e3cecd03:17297616f299f25750f8e47ac11db385"
+      "url": "https://uselector.cdn.intigral-ott.net/DCF/DCF.isml/manifest.mpd",
+      "key": "bce56c8de2f1b27b16dd7d3abc2409b6:8c1c393bb61be740910438f6e49c7c32"
     },
     {
       "name": "Investigation Discovery (ID)",
