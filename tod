@@ -14,8 +14,8 @@
 
     {
       "name": "mbc action",
-      "url": "https://todtv-live-ent-prod.akamaized.net/Content/DASH_DASH_DT/Live/channel(ent-hd-05)/playlist_ha.mpd?hdnts=st=1753037130~exp=1753037300~acl=*/Content/DASH_DASH_DT/Live/channel(ent-hd-05)/*~id=fa74f5a4-a3cf-453f-b9ce-aaaa0294385b~data=aXA9MTAyLjIxMS41LjI3~hmac=02ab6807a43c3a35b6d40ecfb4d5ee2b6835dc56020152186f1cc26c169c7298",
-      "key": "a3abcffe8f9a3103bb91b7879b31967d:1791fc9b6aaf90e134c515a51950725e"
+      "url": "",
+     
     },
     
     {
