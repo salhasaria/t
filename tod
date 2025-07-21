@@ -91,8 +91,8 @@
     },
     {
       "name": "Rotana Khalejia HD",
-      "url": "https://uselector.cdn.intigral-ott.net/ROTK/ROTK.isml/manifest.mpd",
-      "key": "ce4e01ce30988babcc4ed18ceeef01bc:a5c1b40cae897024745e56343cf43b50"
+      "url": "https://todtv-live-ent-prod.akamaized.net/Content/Channel/svc-spo-hd-40-dt/DASH/playlist_tv.mpd?hdnts=st=1753132322~exp=1753132492~acl=*/Content/Channel/svc-spo-hd-40-dt/DASH/*~id=74c5b3f9-aa79-4f46-b193-decc5bfcb861~data=aXA9MTAyLjIxMS41LjI3~hmac=be3577fbfa943942b9fcd73eafc0e37b10a2c5e5b26ac6ad9c4ce39ab2a20848",
+      "key": "f64f7ec678853863bc60dc74d9834f14:4dceab60a7c4288484ea856f8c41f56b"
     },
     {
       "name": "Rotana + HD",
