@@ -71,8 +71,8 @@
     },
     {
       "name": "STC TV Drama",
-      "url": "https://uselector.cdn.intigral-ott.net/STCD/STCD.isml/manifest.mpd",
-      "key": "4307d51136956e78dd17fe4884ba66d1:e81223c66a46efacd95b83c9ebbb8c1c"
+      "url": "https://todtv-live-ent-prod.akamaized.net/Content/Channel/svc-spo-hd-40-dt/DASH/playlist_tv.mpd?hdnts=st=1753127764~exp=1753127934~acl=*/Content/Channel/svc-spo-hd-40-dt/DASH/*~id=74c5b3f9-aa79-4f46-b193-decc5bfcb861~data=aXA9MTAyLjIxMS41LjI3~hmac=b8f1ea72fdaf99218262cd5a79b672cc3e44bd2bf55ca9c66ff220d70bbb6a3e",
+      "key": "a3abcffe8f9a3103bb91b7879b31967d:1791fc9b6aaf90e134c515a51950725e"
     },
     {
       "name": "STC TV Family",
