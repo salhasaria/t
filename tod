@@ -44,7 +44,7 @@
     },
     {
       "name": "Alsharq Alawthaekeya",
-      "url": "https://todtv-live-ent-prod.akamaized.net/Content/DASH_DASH_DT/Live/channel(ent-hd-05)/playlist_ha.mpd?hdnts=st=1753103286~exp=1753103456~acl=*/Content/DASH_DASH_DT/Live/channel(ent-hd-05)/*~id=fa74f5a4-a3cf-453f-b9ce-aaaa0294385b~data=aXA9MTAyLjIxMS41LjI3~hmac=5e1960a94c3f076713be8f19125601926ea771bcc275bfbc7c59c8044c559d6a",
+      "url": "https://todtv-live-ent-prod.akamaized.net/Content/Channel/svc-spo-hd-40-dt/DASH/playlist_tv.mpd?hdnts=st=1753127568~exp=1753127738~acl=*/Content/Channel/svc-spo-hd-40-dt/DASH/*~id=74c5b3f9-aa79-4f46-b193-decc5bfcb861~data=aXA9MTAyLjIxMS41LjI3~hmac=d048eecc84f979119d702f213ccb3d0442fe07c1b53477ea5265d64ccfcddcae",
       "key": "a3abcffe8f9a3103bb91b7879b31967d:1791fc9b6aaf90e134c515a51950725e"
     },
     {
