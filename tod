@@ -61,8 +61,8 @@
     },
     {
       "name": "SBC",
-      "url": "https://todtv-live-ent-prod.akamaized.net/Content/DASH_DASH_DT/Live/channel(ent-hd-05)/playlist_ha.mpd?hdnts=st=1753036935~exp=1753037104~acl=*/Content/DASH_DASH_DT/Live/channel(ent-hd-05)/*~id=fa74f5a4-a3cf-453f-b9ce-aaaa0294385b~data=aXA9MTAyLjIxMS41LjI3~hmac=b5934749f5a918693d237914bcd3fd8975f8720c380e782adad34d4d3642dd56",
-      "key": "a3abcffe8f9a3103bb91b7879b31967d:1791fc9b6aaf90e134c515a51950725e"
+      "url": "https://todtv-live-ent-prod.akamaized.net/Content/DASH_DASH_DT/Live/channel(ent-hd-30)/playlist_ha.mpd?hdnts=st=1753112277~exp=1753112446~acl=*/Content/DASH_DASH_DT/Live/channel(ent-hd-30)/*~id=fa74f5a4-a3cf-453f-b9ce-aaaa0294385b~data=aXA9MTAyLjIxMS41LjI3~hmac=9dd5f04778e5cb103b4a4c49857f98a3bbbd97dbdc36317d2ecad5c7677f3db8",
+      "key": "34f98754a7633d0fbfa7617f44b4fdb8:e740b5dbef42553809e10c0b4da97a3c"
     },
     {
       "name": "MBC 1 HD",
