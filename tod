@@ -56,8 +56,8 @@
   "Entertainment": [
     {
       "name": "KSA 1",
-      "url": "https://todtv-live-ent-prod.akamaized.net/Content/Channel/svc-spo-hd-40-dt/DASH/playlist_tv.mpd?hdnts=st=1753128129~exp=1753128299~acl=*/Content/Channel/svc-spo-hd-40-dt/DASH/*~id=74c5b3f9-aa79-4f46-b193-decc5bfcb861~data=aXA9MTAyLjIxMS41LjI3~hmac=d5f04bb5338f3e60ac013ac20a46b22512da373a025dcaecba09796173bd79bf",
-      "key": "f64f7ec678853863bc60dc74d9834f14:4dceab60a7c4288484ea856f8c41f56b"
+      "url": "https://todtv-live-ent-prod.akamaized.net/Content/DASH_DASH_DT/Live/channel(ent-hd-04)/playlist_ha.mpd?hdnts=st=1753214536~exp=1753214705~acl=*/Content/DASH_DASH_DT/Live/channel(ent-hd-04)/*~id=74c5b3f9-aa79-4f46-b193-decc5bfcb861~data=aXA9MTAyLjIxMS41LjI3~hmac=6109ffd3af89402fe216fe6c5bd98853fc740558befeb99cccda93e0d960aaa8",
+      "key": "d39053eb85a98334fabe9ea9091995c80:89c143e485413e4774d9c07cade9bf82"
     },
     {
       "name": "SBC",
