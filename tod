@@ -44,13 +44,13 @@
     },
     {
       "name": "Alsharq Alawthaekeya",
-      "url": "https://todtv-live-ent-prod.akamaized.net/Content/Channel/svc-spo-hd-40-dt/DASH/playlist_tv.mpd?hdnts=st=1753127568~exp=1753127738~acl=*/Content/Channel/svc-spo-hd-40-dt/DASH/*~id=74c5b3f9-aa79-4f46-b193-decc5bfcb861~data=aXA9MTAyLjIxMS41LjI3~hmac=d048eecc84f979119d702f213ccb3d0442fe07c1b53477ea5265d64ccfcddcae",
-      "key": "a3abcffe8f9a3103bb91b7879b31967d:1791fc9b6aaf90e134c515a51950725e"
+      "url": "https://todtv-live-ent-prod.akamaized.net/Content/DASH_DASH_DT/Live/channel(ent-hd-04)/playlist_ha.mpd?hdnts=st=1753210267~exp=1753210437~acl=*/Content/DASH_DASH_DT/Live/channel(ent-hd-04)/*~id=74c5b3f9-aa79-4f46-b193-decc5bfcb861~data=aXA9MTAyLjIxMS41LjI3~hmac=4176b5e9b29f8058218cb48eda8ebfef484188e09405bce6373e327d3e9ad4e5",
+      "key": "39053eb85a98334fabe9ea9091995c80:89c143e485413e4774d9c07cade9bf82"
     },
     {
       "name": "Alsharq Discovery",
       "url": "https://todtv-live-ent-prod.akamaized.net/Content/DASH_DASH_DT/Live/channel(ent-hd-01)/playlist_ha.mpd?hdnts=st=1753210023~exp=1753210193~acl=*/Content/DASH_DASH_DT/Live/channel(ent-hd-01)/*~id=74c5b3f9-aa79-4f46-b193-decc5bfcb861~data=aXA9MTAyLjIxMS41LjI3~hmac=b1547e252d03aa5c5fa6873f599324d2105b8df75a6a3adc8917072e9774e28b",
-      "key": "de2e89e6e7fd3fd7b564a1ae4d019968:543b39583fea54c70fb6e9186da930ca"
+      "key": "d39053eb85a98334fabe9ea9091995c80:89c143e485413e4774d9c07cade9bf82"
     }
   ],
   "Entertainment": [
