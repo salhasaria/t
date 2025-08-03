@@ -66,8 +66,8 @@
     },
     {
       "name": "MBC 1 HD",
-      "url": "https://todtv-live-ent-prod.akamaized.net/Content/DASH_DASH_DT/Live/channel(ent-hd-04)/playlist_ha.mpd?hdnts=st=1753210155~exp=1753210324~acl=*/Content/DASH_DASH_DT/Live/channel(ent-hd-04)/*~id=74c5b3f9-aa79-4f46-b193-decc5bfcb861~data=aXA9MTAyLjIxMS41LjI3~hmac=b12068e70684baa0765a68f903520d8516cee4572ef9f17bd0337f06138a22b9",
-      "key": "39053eb85a98334fabe9ea9091995c80:89c143e485413e4774d9c07cade9bf82"
+      "url": "https://todtv-live-spo-prod.akamaized.net/Content/Channel/svc-spo-hd-14-dt/DASH/playlist_ha.mpd?start=1754243400000&end=1754265600000&hdnts=st=1754244378~exp=1754244548~acl=*/Content/Channel/svc-spo-hd-14-dt/DASH/*~id=74c5b3f9-aa79-4f46-b193-decc5bfcb861~data=aXA9MTAyLjIxMS41LjI3~hmac=a250f6a7af950e0aa07d862acadc901dc8efc1e123363e2fe8469434d03d8453",
+      "key": "243258212d17399f9e04423b450e45ab:4d251bfc4fc1c305adc2c07594236253"
     },
     {
       "name": "STC TV Drama",
