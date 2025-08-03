@@ -56,13 +56,13 @@
   "Entertainment": [
     {
       "name": "KSA 1",
-      "url": "https://todtv-live-ent-prod.akamaized.net/Content/DASH_DASH_DT/Live/channel(ent-hd-04)/playlist_ha.mpd?hdnts=st=1753214536~exp=1753214705~acl=*/Content/DASH_DASH_DT/Live/channel(ent-hd-04)/*~id=74c5b3f9-aa79-4f46-b193-decc5bfcb861~data=aXA9MTAyLjIxMS41LjI3~hmac=6109ffd3af89402fe216fe6c5bd98853fc740558befeb99cccda93e0d960aaa8",
+      "url": "https://todtv-live-spo-prod.akamaized.net/Content/Channel/svc-spo-hd-14-dt/DASH/playlist_ha.mpd?start=1754243400000&end=1754265600000&hdnts=st=1754244225~exp=1754244395~acl=*/Content/Channel/svc-spo-hd-14-dt/DASH/*~id=74c5b3f9-aa79-4f46-b193-decc5bfcb861~data=aXA9MTAyLjIxMS41LjI3~hmac=016463f34acff666ff66447c159110563a8a7881c836f238ca049cb2a21cbcca",
       "key": "d39053eb85a98334fabe9ea9091995c80:89c143e485413e4774d9c07cade9bf82"
     },
     {
       "name": "SBC",
       "url": "https://todtv-live-ent-prod.akamaized.net/Content/DASH_DASH_DT/Live/channel(ent-hd-30)/playlist_ha.mpd?hdnts=st=1753112277~exp=1753112446~acl=*/Content/DASH_DASH_DT/Live/channel(ent-hd-30)/*~id=fa74f5a4-a3cf-453f-b9ce-aaaa0294385b~data=aXA9MTAyLjIxMS41LjI3~hmac=9dd5f04778e5cb103b4a4c49857f98a3bbbd97dbdc36317d2ecad5c7677f3db8",
-      "key": "34f98754a7633d0fbfa7617f44b4fdb8:e740b5dbef42553809e10c0b4da97a3c"
+      "key": "243258212d17399f9e04423b450e45ab:4d251bfc4fc1c305adc2c07594236253"
     },
     {
       "name": "MBC 1 HD",
