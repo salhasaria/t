@@ -49,7 +49,7 @@
     },
     {
       "name": "Alsharq Discovery",
-      "url": "https://todtv-live-spo-prod.akamaized.net/Content/Channel/svc-spo-hd-14-dt/DASH/playlist_ha.mpd?start=1754238799000&end=1754260200000&hdnts=st=1754241875~exp=1754242044~acl=*/Content/Channel/svc-spo-hd-14-dt/DASH/*~id=74c5b3f9-aa79-4f46-b193-decc5bfcb861~data=aXA9MTAyLjIxMS41LjI3~hmac=7b7cab8f21ded96d93550ac15962ca81855e0ec11ef5b83c89424831148e0be7",
+      "url": "https://todtv-live-spo-prod.akamaized.net/Content/Channel/svc-spo-hd-14-dt/DASH/playlist_ha.mpd?start=1754238799000&end=1754260200000&hdnts=st=1754246946~exp=1754247115~acl=*/Content/Channel/svc-spo-hd-14-dt/DASH/*~id=74c5b3f9-aa79-4f46-b193-decc5bfcb861~data=aXA9MTAyLjIxMS41LjI3~hmac=03b3707c13e59fed402859db50d19765cf6780e5ad1b9518ff06edfc8d0f6a0f",
       "key": "243258212d17399f9e04423b450e45ab:4d251bfc4fc1c305adc2c07594236253"
     }
   ],
