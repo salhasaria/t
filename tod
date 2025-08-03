@@ -71,8 +71,8 @@
     },
     {
       "name": "STC TV Drama",
-      "url": "https://todtv-live-ent-prod.akamaized.net/Content/Channel/svc-spo-hd-40-dt/DASH/playlist_tv.mpd?hdnts=st=1753127764~exp=1753127934~acl=*/Content/Channel/svc-spo-hd-40-dt/DASH/*~id=74c5b3f9-aa79-4f46-b193-decc5bfcb861~data=aXA9MTAyLjIxMS41LjI3~hmac=b8f1ea72fdaf99218262cd5a79b672cc3e44bd2bf55ca9c66ff220d70bbb6a3e",
-      "key": "a3abcffe8f9a3103bb91b7879b31967d:1791fc9b6aaf90e134c515a51950725e"
+      "url": "https://todtv-live-spo-prod.akamaized.net/Content/Channel/svc-spo-hd-14-dt/DASH/playlist_ha.mpd?start=1754238799000&end=1754260200000&hdnts=st=1754246725~exp=1754246895~acl=*/Content/Channel/svc-spo-hd-14-dt/DASH/*~id=74c5b3f9-aa79-4f46-b193-decc5bfcb861~data=aXA9MTAyLjIxMS41LjI3~hmac=123b2db0e1147c1706c619eb63181e01c228ce1b2136f6ceed19d10be888bb83",
+      "key": "243258212d17399f9e04423b450e45ab:4d251bfc4fc1c305adc2c07594236253"
     },
     {
       "name": "STC TV Family",
