@@ -61,7 +61,7 @@
     },
     {
       "name": "SBC",
-      "url": "https://todtv-live-spo-prod.akamaized.net/Content/Channel/svc-spo-hd-14-dt/DASH/playlist_ha.mpd?start=1754348643000&end=1754370000000&hdnts=st=1754350102~exp=1754350271~acl=*/Content/Channel/svc-spo-hd-14-dt/DASH/*~id=74c5b3f9-aa79-4f46-b193-decc5bfcb861~data=aXA9MTAyLjIxMS41LjI3~hmac=e7c83f4177beae2015e10ce3fba18ce951f5eb62682d03a9070e1d154ee450ff",
+      "url": "https://connect-live.bein.com/besmenasports1premium/indexsd.mpd?hdnts=data=env=beinmena-production,customerID=7471039,clientID=293,jwt=eyJhbGciOiJIUzI1NiJ9.eyJpZF9jaGFubmVsIjo2NSwiYXBpcCI6IjMxLjU2LjExOS4xNTUiLCJpZF9pZGVudGl0eSI6NzQ3MTAzOSwiaWRfZGV2aWNlIjoiMWJmZjcwMTk5Yzc5ZGIyYTY4Y2VjYmRlZTZhZTEzMzMiLCJpZF9jdXN0b21lciI6NzQ3MTAzOSwiaWRfc3RyZWFtIjoiMDBhOTlkNWQtMGZiZC00NjI4LTg4MzUtOTQ0MzExN2ExZDBiIn0.T2_o-5gxbAR7WkUVp7kYLog8051CdBvXD2QvwmV1vtQ~ip=31.56.119.155~st=1755004154~exp=1755011354~acl=/besmenasports1premium/*~hmac=da0307823dbb9038331c8232c92054bfc8fca10eb35f6b503a177a5d483199e6&?idChannel=65&playerName=bitmovin-web&playerVersion=10.0&checksum=8OvWoyUfucxel76Fwv%2BZ%2FvCwdMsxxjJxgBreB9iOCso%3D",
       "key": "243258212d17399f9e04423b450e45ab:4d251bfc4fc1c305adc2c07594236253"
     },
     {
