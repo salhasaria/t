@@ -49,7 +49,7 @@
     },
     {
       "name": "Alsharq Discovery",
-      "url": "https://todtv-live-spo-prod.akamaized.net/Content/Channel/svc-spo-hd-14-dt/DASH/playlist_ha.mpd?start=1754848200000&end=1754870400000&hdnts=st=1754851310~exp=1754851479~acl=*/Content/Channel/svc-spo-hd-14-dt/DASH/*~id=74c5b3f9-aa79-4f46-b193-decc5bfcb861~data=aXA9MTAyLjIxMS41LjI3~hmac=67430369dadcb63084e7385219078e01882b78f26f09b0f31eacca14f0a3f8fc",
+      "url": "https://connect-live.bein.com/besmenasports5/indexsd.mpd?hdnts=data=env=beinmena-production,customerID=7471039,clientID=293,jwt=eyJhbGciOiJIUzI1NiJ9.eyJpZF9jaGFubmVsIjo3MywiYXBpcCI6IjMxLjU2LjExOS4xNDQiLCJpZF9pZGVudGl0eSI6NzQ3MTAzOSwiaWRfZGV2aWNlIjoiMWJmZjcwMTk5Yzc5ZGIyYTY4Y2VjYmRlZTZhZTEzMzMiLCJpZF9jdXN0b21lciI6NzQ3MTAzOSwiaWRfc3RyZWFtIjoiODdjNmY3OTMtOTVjMC00ZDA1LTgzMzktNGVkNDAxYTlkN2E0In0.cZoVB6pfLOpR07_-X9xVod-i9_HwPw8OBHSvIukI0RE~ip=31.56.119.144~st=1755001585~exp=1755008785~acl=/besmenasports5/*~hmac=21151f926ce83377582a6c61ca93d6357ee3d8c184944e70bc7aab851d2f08b5&?idChannel=73&playerName=bitmovin-web&playerVersion=10.0&checksum=gsdYBltXB89A8pS5kDzhLaKXK%2BU%2B%2Fgz%2FJDekw%2FnS6fE%3D",
       "key": "243258212d17399f9e04423b450e45ab:4d251bfc4fc1c305adc2c07594236253"
     }
   ],
