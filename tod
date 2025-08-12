@@ -29,7 +29,7 @@
     },
     {
       "name": "bein drama",
-      "url": "https://todtv-live-spo-prod.akamaized.net/Content/Channel/svc-spo-hd-14-dt/DASH/playlist_ha.mpd?start=1754348643000&end=1754370000000&hdnts=st=1754349858~exp=1754350027~acl=*/Content/Channel/svc-spo-hd-14-dt/DASH/*~id=74c5b3f9-aa79-4f46-b193-decc5bfcb861~data=aXA9MTAyLjIxMS41LjI3~hmac=31ba8b14fe121b159015741851db3fc928ce4adefd4cad824ea81794414dfa5f",
+      "url": "https://connect-live.bein.com/out/v1/eyJpZF9jaGFubmVsIjo3MywiYXBpcCI6IjMxLjU2LjExOS4xNDQiLCJpZF9pZGVudGl0eSI6NzQ3MTAzOSwiaWRfZGV2aWNlIjoiMWJmZjcwMTk5Yzc5ZGIyYTY4Y2VjYmRlZTZhZTEzMzMiLCJpZF9jdXN0b21lciI6NzQ3MTAzOSwiaWRfc3RyZWFtIjoiODdjNmY3OTMtOTVjMC00ZDA1LTgzMzktNGVkNDAxYTlkN2E0In0/index.mpd",
       "key": "243258212d17399f9e04423b450e45ab:4d251bfc4fc1c305adc2c07594236253"
     },
     {
