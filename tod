@@ -292,7 +292,7 @@
     },
     {
       "name": "STAR Movies",
-      "url": "https://uselector.cdn.intigral-ott.net/STM/STM.isml/manifest.mpd",
+      "url": "https://fastly-live.cdn.intigral-ott.net/STM/STM.isml/manifest.mpd",
       "key": "4b7a662d7132679630f3a3f1862a859c:0651bc37e705349a2848278ae3ad7bf4"
     }
   ]
