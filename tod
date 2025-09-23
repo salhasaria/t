@@ -14,7 +14,7 @@
     
     {
       "name": "National Geographic WILD",
-      "url": "https://uselector.cdn.intigral-ott.net/NHD/NHD.isml/manifest.mpd",
+      "url": "https://akm-live.cdn.intigral-ott.net/NHD/NHD.isml/manifest.mpd",
       "key": "276e56bc14095f327bbf0c936eb7b38c:63127eaddb18c596db05657424849519"
     },
     {
@@ -28,9 +28,9 @@
       "key": "ffc77ff035a2f1839c498d6431de9905:aa4bb62d5c3b25238332511972b1cbc8"
     },
     {
-      "name": "bein drama",
-      "url": "https://connect-live.bein.com/out/v1/eyJpZF9jaGFubmVsIjo3MywiYXBpcCI6IjMxLjU2LjExOS4xNDQiLCJpZF9pZGVudGl0eSI6NzQ3MTAzOSwiaWRfZGV2aWNlIjoiMWJmZjcwMTk5Yzc5ZGIyYTY4Y2VjYmRlZTZhZTEzMzMiLCJpZF9jdXN0b21lciI6NzQ3MTAzOSwiaWRfc3RyZWFtIjoiODdjNmY3OTMtOTVjMC00ZDA1LTgzMzktNGVkNDAxYTlkN2E0In0/index.mpd",
-      "key": "243258212d17399f9e04423b450e45ab:4d251bfc4fc1c305adc2c07594236253"
+      "name": "national hd",
+      "url": "https://akm-live.cdn.intigral-ott.net/NGO/NGO.isml/manifest.mpd",
+      "key": "1ba94b93b39ab809b587237d7b60a049:e0f94dbfbf9e6e45c9567a7b50eb612c"
     },
     {
       "name": "Discovery Family HD",
@@ -245,7 +245,7 @@
     },
     {
       "name": "Cartoonito",
-      "url": "https://uselector.cdn.intigral-ott.net/BOM/BOM.isml/manifest.mpd",
+      "url": "https://akm-live.cdn.intigral-ott.net/BOM/BOM.isml/manifest.mpd",
       "key": "2802f3f0e4538e4e6b9085c179c15dce:5afbd95bb853cc2c104e3b960d51defe"
     },
     {
