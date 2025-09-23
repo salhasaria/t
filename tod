@@ -287,7 +287,7 @@
     },
     {
       "name": "STAR Action",
-      "url": "https://uselector.cdn.intigral-ott.net/FMA/FMA.isml/manifest.mpd",
+      "url": "https://fastly-live.cdn.intigral-ott.net/FMA/FMA.isml/manifest.mpd",
       "key": "230af93fc61c0c170067c9d1b6538402:49a9bf0cfba1cb4e52de3d458f6fb3a2"
     },
     {
