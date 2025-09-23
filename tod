@@ -166,7 +166,7 @@
     },
     {
       "name": "STAR World",
-      "url": "https://uselector.cdn.intigral-ott.net/STW/STW.isml/manifest.mpd",
+      "url": "https://fastly-live.cdn.intigral-ott.net/STW/STW.isml/manifest.mpd",
       "key": "19cf49b59d662baf0359682aa503749f:af573556d33ef2f094b98c7d22e9ffce"
     },
     {
