@@ -171,7 +171,7 @@
     },
     {
       "name": "food network",
-      "url": "https://uselector.cdn.intigral-ott.net/FNH/FNH.isml/manifest.mpd",
+      "url": "https://fastly-live.cdn.intigral-ott.net/FNH/FNH.isml/manifest.mpd",
       "key": "781c82a71b2bc5a1ca0a53d97940bab1:3269cae876ddfb30440760e0239cc923"
     },
     {
